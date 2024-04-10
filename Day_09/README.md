@@ -34,12 +34,14 @@ Output 2:
 ```
 
 ### Example Explanation
-```
+
 Explanation 1:
+
+<img width="414" alt="image" src="https://github.com/kishanrajput23/30-Days-of-Arrays-and-Lists/assets/70385488/89656f8a-b5a6-491d-9335-9504907d6dff">
 
     In this case, 6 units of rain water (blue section) are being trapped.
 
 Explanation 2:
 
     No water is trapped.
-```
+
